@@ -1,8 +1,6 @@
 
 ## sweet
-
 A bakery's website built with React.
-
 ## Description
 
 This project is a simple and interactive bakery website built using **React**. It showcases the menu, home page, contact page, and about page with modern design and responsive layout.
